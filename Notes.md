@@ -1,0 +1,50 @@
+# Notes
+
+- Triggers cue the user to take action and are the first step in the Hook Model.
+	- Triggers come in two types — external and internal.
+	- External triggers tell the user what to do next by placing information within the user’s environment.
+	- Internal triggers tell the user what to do next through associations stored in the user’s memory.
+	- Negative emotions frequently serve as internal triggers.
+	- To build a habit-forming product, makers need to understand which user emotions may be tied to internal triggers and know how to leverage external triggers to drive the user to action.
+- Action is the second step in The Hook.
+	- The action is the simplest behavior in anticipation of reward.
+	- As described by the Dr. BJ Fogg’s Behavior Model:
+	- For any behavior to occur, a trigger must be present at the same time as the user has sufficient ability and motivation to take action.
+	- To increase the desired behavior, ensure a clear trigger is present, then increase ability by making the action easier to do, and finally align with the right motivator.
+	- Every behavior is driven by one of three Core Motivators: seeking pleasure or avoiding pain, seeking hope and avoiding fear, seeking social acceptance while avoiding social rejection.
+	- Ability is influenced by the six factors of time, money, physical effort, brain cycles, social deviance, and non-routineness. Ability is dependent on users and their context at that moment.
+	- Heuristics are cognitive shortcuts we take to make quick decisions. Product designers can utilize many of the hundreds of heuristics to increase the likelihood of their desired action (scarcity effect, framing effect, anchoring effect, endowed progress effect).
+- Variable Reward is the third phase of the Hook Model, and there are three types of variable rewards: tribe, hunt and self.
+	- Rewards of the tribe is the search for social rewards fueled by connectedness with other people.
+	- Rewards of the hunt is the search for material resources and information.
+	- Rewards of the self is the search for intrinsic rewards of mastery, competence, and completion.
+	- When our autonomy is threatened, we feel constrained by our lack of choices and often rebel against doing a new behavior. Psychologists call this “reactance.” Maintaining a sense of user autonomy is a requirement for repeat engagement.
+	- Experiences with finite variability become increasingly predictable with use and lose their appeal over time. Experiences that maintain user interest by sustaining variability with use exhibit infinite variability.
+	- Variable rewards must satisfy users’ needs, while leaving them wanting to reengage with the product.
+- The Investment Phase is the fourth step in the Hook Model.
+	- Unlike the Action Phase, which delivers immediate gratification, the Investment Phase is about the anticipation of rewards in the future.
+	- Investments in a product create preference because of our tendency to overvalue our work, be consistent with past behaviors, and avoid cognitive dissonance.
+	- Investment comes after the variable reward phase when users are primed to reciprocate.
+	- Investments increase the likelihood of users returning by improving the service the more it is used. They enable the accrual of stored value in the form of content, data, followers, reputation or skill.
+	- Investments increase the likelihood of users passing through the Hook again by loading the next trigger to start the cycle all over again.
+- What Are You Going to Do With This?
+    - To help designers of habit-forming technology assess the morality behind how they manipulate users, it is helpful to determine which of the four categories their work fits into. Are you a facilitator, peddler, entertainer, or dealer?
+    -  Facilitators use their own product and believe it can materially improve people’s lives. They have the highest chance of success because they most closely understand the needs of their users.
+    - Peddlers believe their product can materially improve people’s lives, but do not use it themselves. They must beware of the hubris and inauthenticity that comes from building solutions for people they do not understand.
+    - Entertainers use their product, but do not believe it can improve people’s lives. They can be successful, but without making the lives of others better in some way, the entertainer’s products often lack staying power.
+    - Dealers neither use the product nor believe it can improve people’s lives. They have the lowest chance of finding long-term success and often find themselves in morally precarious positions.
+- Case Study: the Bible App
+    - The Bible app was far less engaging as a desktop website. The mobile interface increased accessibility and usage by providing frequent triggers.
+    - The Bible app increases users' ability to take action by front-loading interesting content and providing an alternative audio version.
+    - By separating the verses into small chunks, users find the Bible easier to read on a daily basis. Not knowing what the next verse will be adds a variable reward.
+    - Every annotation, bookmark and highlight stores data (and value) in the app, further committing users.
+- Habit Testing and Where to Look for Habit-forming Opportunities
+    - The Hook Model helps the product designer generate an initial prototype for a habit-forming technology. It also helps uncover potential weaknesses in an existing product’s habit-forming potential.
+    - Once a product is built, Habit Testing helps uncover product devotees, discover which product elements are habit forming (if any), and why those aspects of your product change user behavior. Habit Testing includes three steps: identify, codify, and modify.
+        - First, dig into the data to identify how people are behaving and using the product.
+        - Next, codify these findings in search of habitual users. To generate new hypotheses, study the actions and paths taken by devoted users.
+        - Lastly, modify the product to influence more users to follow the same path as your habitual users, and then evaluate results and continue to modify as needed.
+    - Keen observation of one's own behavior can lead to new insights and habitforming product opportunities.
+    - Identifying areas where a new technology makes cycling through the Hook Model faster, more frequent or more rewarding provides fertile ground for developing new habit-forming products.
+    - Nascent behaviors — new behaviors that few people see or do, and yet ultimately fulfill a mass-market need — can inform future breakthrough habitforming opportunities.
+    - New interfaces lead to transformative behavior change and business opportunities.
